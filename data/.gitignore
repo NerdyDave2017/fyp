@@ -1,0 +1,9 @@
+data.zip
+raw_audio/
+__pycache__/
+*.wav
+*.mp3
+*.zip
+*.pt
+*.onnx
+*.ckpt
